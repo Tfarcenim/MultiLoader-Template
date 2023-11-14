@@ -7,7 +7,7 @@
     "mixins": [
     ],
     "client": [
-        "MixinMinecraft"
+      "com.replaymod.mixin.MixinMinecraft"
     ],
     "server": [
     ],

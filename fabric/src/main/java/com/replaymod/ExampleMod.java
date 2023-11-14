@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.replaymod;
 
 import net.fabricmc.api.ModInitializer;
 

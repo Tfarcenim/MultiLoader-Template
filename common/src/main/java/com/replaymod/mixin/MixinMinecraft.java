@@ -1,6 +1,6 @@
-package com.example.examplemod.mixin;
+package com.replaymod.mixin;
 
-import com.example.examplemod.CommonClass;
+import com.replaymod.CommonClass;
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
