@@ -1,4 +1,4 @@
-package com.replaymod;
+package com.example.examplemod;
 
 import net.minecraftforge.fml.common.Mod;
 

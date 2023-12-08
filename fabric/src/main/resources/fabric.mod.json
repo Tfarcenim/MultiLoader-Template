@@ -16,7 +16,7 @@
     "environment": "*",
     "entrypoints": {
         "main": [
-            "com.replaymod.ExampleMod"
+            "com.example.examplemod.ExampleMod"
         ]
     },
     "mixins": [

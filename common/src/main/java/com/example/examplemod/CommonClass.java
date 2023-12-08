@@ -1,6 +1,6 @@
-package com.replaymod;
+package com.example.examplemod;
 
-import com.replaymod.platform.Services;
+import com.example.examplemod.platform.Services;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.world.item.Items;
 import org.slf4j.Logger;

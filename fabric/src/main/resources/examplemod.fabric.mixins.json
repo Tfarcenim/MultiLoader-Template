@@ -7,7 +7,7 @@
     "mixins": [
     ],
     "client": [
-      "com.replaymod.mixin.MixinTitleScreen"
+        "MixinTitleScreen"
     ],
     "server": [
     ],

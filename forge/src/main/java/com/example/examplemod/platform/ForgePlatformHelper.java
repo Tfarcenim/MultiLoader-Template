@@ -1,6 +1,6 @@
-package com.replaymod.platform;
+package com.example.examplemod.platform;
 
-import com.replaymod.platform.services.IPlatformHelper;
+import com.example.examplemod.platform.services.IPlatformHelper;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.loading.FMLLoader;
 

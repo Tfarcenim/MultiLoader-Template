@@ -1,7 +1,7 @@
-package com.replaymod.platform;
+package com.example.examplemod.platform;
 
-import com.replaymod.CommonClass;
-import com.replaymod.platform.services.IPlatformHelper;
+import com.example.examplemod.CommonClass;
+import com.example.examplemod.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 
