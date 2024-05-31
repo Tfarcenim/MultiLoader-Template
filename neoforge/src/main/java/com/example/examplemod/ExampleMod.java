@@ -4,7 +4,7 @@ package com.example.examplemod;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 
-@Mod(Constants.MOD_ID)
+@Mod(CommonClass.MOD_ID)
 public class ExampleMod {
 
     public ExampleMod(IEventBus eventBus) {
@@ -14,7 +14,7 @@ public class ExampleMod {
         // project.
 
         // Use NeoForge to bootstrap the Common mod.
-        Constants.LOG.info("Hello NeoForge world!");
+        CommonClass.LOG.info("Hello NeoForge world!");
         CommonClass.init();
 
     }

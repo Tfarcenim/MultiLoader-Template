@@ -38,6 +38,7 @@ pluginManagement {
                 includeGroup("net.minecraftforge")
             }
         }
+        maven { url = 'https://maven.parchmentmc.org' }
     }
 }
 
