@@ -43,6 +43,12 @@ repositories {
         url = 'https://maven.blamejared.com'
     }
     maven { url "https://maven.shedaniel.me/" }
+    maven {
+        url "https://cursemaven.com"
+        content {
+            includeGroup "curse.maven"
+        }
+    }
 }
 
 // Declare capabilities on the outgoing configurations.
