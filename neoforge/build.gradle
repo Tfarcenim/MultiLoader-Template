@@ -54,6 +54,7 @@ dependencies {
         implementation "me.shedaniel.cloth:cloth-config-neoforge:$cloth_config_version"
         implementation "dev.architectury:architectury-neoforge:$architectury_version"
     }
+    implementation "curse.maven:exposure-871755:7397320"
 }
 
 sourceSets.main.resources { srcDir 'src/generated/resources' }
